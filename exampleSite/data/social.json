@@ -1,12 +1,11 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "social/github.svg"
+        "name": "MountainTop LLC",
+        "link": "https://MountainTopLLC.org/",
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/4MountainTopLLC",
         "image": "social/twitter.svg"
     }
 ]

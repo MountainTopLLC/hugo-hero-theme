@@ -1,11 +1,11 @@
 ---
 title: 'Giving Back'
 weight: 3
-date: 2018-12-06T09:29:16+10:00
+date: 2022-12-06T09:29:16+10:00
 background: ''
 align: right
 button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+We often find a way to help those that helped us up.  The best way to come up is to help those around you.

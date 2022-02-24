@@ -1,6 +1,6 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://www.MountainTopLLC.org/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "MountainTop LLC"
 themesDir = "../.."
 theme = "hugo-hero-theme"
 
@@ -19,18 +19,18 @@ theme = "hugo-hero-theme"
     desktop = "images/logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "MountainTop LLC"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "MountainTop LLC is your choice for Semi Truck Freight Delivery."
+    meta_og_title = "MountainTop LLC"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_url = "https://www.MountainTopLLC.org"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "MountainTop LLC is your choice for Semi Truck Freight Delivery."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@4MountainTopLLC"
+    meta_twitter_creator = "@4MountainTopLLC"
 
 [[menu.main]]
 	name = "Services"
@@ -38,24 +38,14 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
