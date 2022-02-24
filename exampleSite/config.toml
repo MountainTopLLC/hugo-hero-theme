@@ -14,11 +14,11 @@ theme = "hugo-hero-theme"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
-    mobile_height = "36px"
-    mobile_width = "36px"
+    mobile_height = "30px"
+    mobile_width = "192px"
     desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop_height = "30px"
+    desktop_width = "192px"
     alt = "MountainTop LLC"
 
   [params.homepage_meta_tags]
