@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 650 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Page-1" transform="matrix(2.53456,0,0,1,0,0)">
-        <g id="logo">
-        </g>
-        <g transform="matrix(1,0,0,1,1.92332,-10.8382)">
-            <text x="0px" y="34.838px" style="font-family:'Constantia', serif;font-size:33px;fill:#18b80e;stroke:#000;stroke-width:0.52px;">M<tspan x="29.229px 47.067px " y="34.838px 34.838px ">ou</tspan>ntainT<tspan x="158.442px 176.279px " y="34.838px 34.838px ">op</tspan>LL<tspan x="231.016px " y="34.838px ">C</tspan></text>
-        </g>
+<svg width="100%" height="100%" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="path5571" transform="matrix(1.93333,0,0,1.93333,0,0)">
+        <path d="M7.5,2C7.2,2 7.1,2.2 6.9,2.4L1.1,11.9C1,12 1,12.2 1,12.3C1,12.8 1.4,13 1.7,13L13.3,13C13.7,13 14,12.8 14,12.3C14,12.1 14,12.1 13.9,11.9L8.2,2.4C8,2.2 7.8,2 7.5,2ZM7.5,3.5L10.8,9L10,9L8.5,7.5L7.5,9L6.5,7.5L5,9L4.1,9L7.5,3.5Z" style="fill:#20ff00;fill-rule:nonzero;"/>
     </g>
 </svg>
