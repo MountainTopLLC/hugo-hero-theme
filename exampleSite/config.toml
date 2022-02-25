@@ -18,7 +18,7 @@ theme = "hugo-hero-theme"
     mobile_width = "29px"
     desktop = "images/logo.svg"
     desktop_height = "29px"
-    desktop_width = "29px"
+    desktop_width = "217px"
     alt = "MountainTop LLC"
 
   [params.homepage_meta_tags]
